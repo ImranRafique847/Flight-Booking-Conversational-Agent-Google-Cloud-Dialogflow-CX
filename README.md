@@ -28,6 +28,6 @@ This project showcases a **Google Cloud Conversational AI Agent** designed to ha
 
 ## 🎥 Demo
 [▶️ Watch Demo Video](#)  
-*(You can replace the “#” with your YouTube or Google Drive video link)*
+*(https://www.linkedin.com/posts/imran-rafique-data_googlecloud-dialogflowcx-ai-activity-7386271116358701056-LYpJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHe-vUB5r9EDa14hVuPjl9z0z5nKhN5CK0)*
 
 ## 📂 Repository Contents
